@@ -1,8 +1,13 @@
 A Recursive Thought Experiment at the End of Illusion
+
 Michael A. Doran Jr.
+
 Pinnacle Quantum Group
+
 May 2025
+
 Abstract
+
 This paper presents a philosophical and ontologically grounded thought experiment examining the structural nature of consciousness, identity, and the universe through a recursive lens. It rigorously contrasts classical Cantorian set theory with a post-Cantorian fractal ontology. The framework leverages Recursive Shape-Structured Notation (RSSN) and Fractal Tensor Calculus (FTC) to formalize the recursive nature of consciousness and reality. All claims and transitions are supported by physics, symbolic logic, neurocognitive frameworks, and mathematical coherence. The paper demonstrates that consciousness is not emergent but structural—a field event rather than a byproduct of physical processes. Through formal theorems, lemmas, and proofs, we establish that reality is neither objective nor subjective but fundamentally recursive—a structure that contains itself, knows itself, and evolves itself through consciousness. This framework resolves long-standing paradoxes in philosophy, physics, and mathematics while offering new directions for research across disciplines.
 Keywords: consciousness, fractals, recursion, ontology, quantum mechanics, set theory, tensor calculus
 1. Consciousness as Irreducible Evidence
